@@ -1,0 +1,10 @@
+from collections import namedtuple
+City = namedtuple('City', 'name country population coordinates')
+tokyo = City('Tokyo', 'JP', 36.933, (35.689722, 139691677))
+print(tokyo)
+print(tokyo.name)
+print(tokyo.country)
+print(tokyo.population)
+print(tokyo.coordinates)
+print(City._fields)
+c = tokyo._asdict()
