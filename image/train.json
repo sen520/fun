@@ -1,0 +1,9 @@
+[
+  {"text": "mission impossible three is awesome btw", "label": "pos"},
+  {"text": "brokeback mountain was beautiful", "label": "pos"},
+  {"text": "da vinci code is awesome so far", "label": "pos"},
+  {"text": "10 thing i hate about + a knight's tale * brokeback mountain", "label": "neg"},
+  {"text": "mission impossible 3 is amazing", "label": "pos"},
+  {"text": "harr potter = gorgeous", "label": "pos"},
+  {"text": "i love brokeback mountain too: ]", "label": "pos"}
+]
